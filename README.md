@@ -1,4 +1,4 @@
 # Barber
 Dev Barber
 
-<img src="site.jpeg" alt="Exemplo imagem">
+<img src="site.jpg" alt="Exemplo imagem">
